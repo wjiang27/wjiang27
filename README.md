@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wjiang27
 - 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C# and C++
 - 💞️ I’m looking to collaborate on mini Games
 - 📫 How to reach me wj4396@outlook.com
 
